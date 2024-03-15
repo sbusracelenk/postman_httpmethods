@@ -1,3 +1,5 @@
-![Photo by Roman Synkevych on Unsplash][resim]
 
-[resim]: ./1.jpg "Resim Başlığı"
+<img src="./1.jpg" alt="alt yazı" width="400">
+
+
+<img src="./2.jpg" alt="alt yazı" width="320">
